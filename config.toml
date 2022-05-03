@@ -1,0 +1,8 @@
+baseURL = 'http://su47flying.github.io/'
+languageCode = 'en-us'
+title = 'Do it'
+theme = "hugo-theme-learn"
+
+[params]
+themeVariant = "blue"
+keywork = "linux golang rust qemu kernel"
